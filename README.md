@@ -13,6 +13,7 @@
   10. Release the memory allocated to the video and destroy all windows.
   11. End.
 
+## About TRNG:
 ```
 True Random Number Generator is a method that generates random numbers based on
 a physical process or phenomenon that is inherently unpredictable. Unlike
@@ -42,3 +43,4 @@ random encryption code. This is the reason we are using lava lamps,
 since the lava inside the lava lamp doesn't take the same shape twice,
 thus becoming a great source for randomness.
 ```
+![image](https://github.com/DonBoscoBlaiseA/TRNG-Using-Lava-Lamp/assets/140850829/0f0ffae3-3f17-4a3f-b66f-e32d18cfccd2)
