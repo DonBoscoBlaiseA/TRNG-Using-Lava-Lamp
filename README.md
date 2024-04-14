@@ -14,16 +14,31 @@
   11. End.
 
 ```
-True Random Number Generator is a method that generates random numbers based on a physical process or phenomenon that is inherently unpredictable. Unlike pseudorandom number generators (PRNGs), which use deterministic algorithms to produce sequences of numbers that appear random, TRNGs produce numbers that are truly random and not influenced by any external factors.
+True Random Number Generator is a method that generates random numbers based on
+a physical process or phenomenon that is inherently unpredictable. Unlike
+pseudorandom number generators (PRNGs), which use deterministic algorithms to
+produce sequences of numbers that appear random, TRNGs produce numbers that are
+truly random and not influenced by any external factors.
 
 Why use lava lamps for encryption?
-	Computers can only generate numbers that appear random, but are actually generated using mathematical formulas. These are called “pseudo-random” numbers.
+	Computers can only generate numbers that appear random, but are
+actually generated using mathematical formulas. These are called
+“pseudo-random” numbers.
 
-Computers run on logic. A computer program is based on if-then statements: If certain conditions are met, then perform this specified action. The same input into a program results in the same output every time.
+Computers run on logic. A computer program is based on if-then statements:
+If certain conditions are met, then perform this specified action.
+The same input into a program results in the same output every time.
 
-Computers are only useful because of their reliability and predictability. However, that predictability is a liability when it comes to generating secure encryption keys.
+Computers are only useful because of their reliability and predictability.
+However, that predictability is a liability when it comes to generating
+secure encryption keys.
 
-	This is a major deal breaker for encrypting data, since each new key that the computer generates must be truly random, so that hackers won't be able to figure out the key and decrypt the data.
+	This is a major deal breaker for encrypting data, since each
+new key that the computer generates must be truly random, so that
+hackers won't be able to figure out the key and decrypt the data.
 
-	So, we are in need of a truly random source to generate truly random encryption code. This is the reason we are using lava lamps, since the lava inside the lava lamp doesn't take the same shape twice, thus becoming a great source for randomness.
+	So, we are in need of a truly random source to generate truly
+random encryption code. This is the reason we are using lava lamps,
+since the lava inside the lava lamp doesn't take the same shape twice,
+thus becoming a great source for randomness.
 ```
